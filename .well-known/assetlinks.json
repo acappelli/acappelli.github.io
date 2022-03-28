@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "it.bnl.apps.banking",
+    "sha256_cert_fingerprints":
+    ["58:3B:5E:C8:78:70:B5:CF:46:E3:A4:85:18:53:C9:C3:DD:34:02:BB:DF:45:D8:08:29:E3:1F:F8:C1:06:A3:20"]
+  }
+}]
